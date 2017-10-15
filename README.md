@@ -14,7 +14,7 @@ Date: 2017-10-15
 <br>
 Tweeter: <a href="https://twitter.com/woodboye">@woodboye</a>
 <br>
-<!-- Download: <a href="https://github.com/woodboye/insidious/releases/download/v1.0/insidious-theme.el"><b>Insidious_v1.0</b></a> -->
+Download: <a href="https://github.com/woodboye/insidious/releases/download/v1.0/insidious-theme.el"><b>Insidious_v1.0</b></a>
 
 ---
 
