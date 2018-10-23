@@ -1,11 +1,16 @@
 ;;; insidious-theme.el --- Theme
 
-;; (C) Copyright 2017 Trevor Woodman
+;; Copyright (C) 1992-2018 Trevor Woodman
 
-;; Author: Trevor Woodman
+;; Author: Trevor Woodman <tdwoodman@outlook.com>
+;; Created: 15 Oct 2017
+;; Updated: 23 Oct 2018
+;; Keywords: insidious
+;; Homepage: https://trevorwoodman.ca
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "24"))
 
+;;; Code:
 ;; set line highlight
 (global-hl-line-mode 1)
 (set-face-background 'hl-line "gray3")

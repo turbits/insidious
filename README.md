@@ -8,13 +8,21 @@
 
 A dark theme for Emacs. Inspired by <a href="https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp">Doom</a> (2016) soundtrack.
 
-Version: 1.0
+Current Version: 1.1
 <br>
-Date: 2017-10-15
+Date: 15-10-2017
 <br>
-Tweeter: <a href="https://twitter.com/woodboye">@woodboye</a>
+Last Update: 23-10-2018
 <br>
-Download: <a href="https://github.com/woodboye/insidious/releases/download/v1.0/insidious-theme.el"><b>Insidious_v1.0</b></a>
+Website: <a href="https://trevorwoodman.ca">trevorwoodman.ca</a>
+<br>
+Tweeter: <a href="https://twitter.com/tdwoodman">@tdwoodman</a>
+<br>
+Latest Release: <a href="https://github.com/tdwoodman/insidious/releases/download/v1.1/insidious-theme.el"><b>Insidious_v1.1</b></a>
+<br>
+Old Releases:
+
+	- <a href="https://github.com/tdwoodman/insidious/releases/download/v1.0/insidious-theme.el"><b>Insidious_v1.0</b></a>
 
 ---
 
