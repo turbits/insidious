@@ -22,7 +22,7 @@ Latest Release: <a href="https://github.com/tdwoodman/insidious/releases/downloa
 <br>
 Old Releases:
 <br>
--> <a href="https://github.com/tdwoodman/insidious/releases/download/v1.0/insidious-theme.el"><b>Insidious_v1.0</b></a>
+-> <a href="https://github.com/tdwoodman/insidious/releases/download/v1.0/insidious-theme.el">Insidious_v1.0</a>
 
 ---
 
