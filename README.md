@@ -21,8 +21,8 @@ Tweeter: <a href="https://twitter.com/tdwoodman">@tdwoodman</a>
 Latest Release: <a href="https://github.com/tdwoodman/insidious/releases/download/v1.1/insidious-theme.el"><b>Insidious_v1.1</b></a>
 <br>
 Old Releases:
-
-	- <a href="https://github.com/tdwoodman/insidious/releases/download/v1.0/insidious-theme.el"><b>Insidious_v1.0</b></a>
+<br>
+-> <a href="https://github.com/tdwoodman/insidious/releases/download/v1.0/insidious-theme.el"><b>Insidious_v1.0</b></a>
 
 ---
 
