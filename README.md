@@ -47,9 +47,9 @@ If you don't want Insidious to highlight lines for you, remove this from the the
 ---
 
 <a href="https://www.gnu.org/software/emacs/">
-  <img width="80" height="auto" src="emacs.png" title="Get Emacs">
+  <img width="80" height="auto" src="emacs.png" title="Get Emacs" target="_blank">
 </a>
 
 <a href="https://trevorwoodman.ca">
-  <img width="250" height="auto" src="tdw.png" title="My website">
+  <img width="250" height="auto" src="tdw.png" title="My website" target="_blank">
 </a>
