@@ -16,13 +16,11 @@ Last Update: 23-10-2018
 <br>
 Website: <a href="https://trevorwoodman.ca">trevorwoodman.ca</a>
 <br>
-Tweeter: <a href="https://twitter.com/tdwoodman">@tdwoodman</a>
-<br>
-Latest Release: <a href="https://github.com/tdwoodman/insidious/releases/download/v1.1/insidious-theme.el"><b>Insidious_v1.1</b></a>
+Latest Release: <a href="https://github.com/turbits/insidious/releases/download/v1.1/insidious-theme.el"><b>Insidious_v1.1</b></a>
 <br>
 Old Releases:
 <br>
--> <a href="https://github.com/tdwoodman/insidious/releases/download/v1.0/insidious-theme.el">Insidious_v1.0</a>
+-> <a href="https://github.com/turbits/insidious/releases/download/v1.0/insidious-theme.el">Insidious_v1.0</a>
 
 ---
 
